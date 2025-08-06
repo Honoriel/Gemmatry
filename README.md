@@ -30,12 +30,6 @@ Gemmatry is a Flutter-based mobile application that leverages Google's Gemma 3n 
 - **Markdown Support**: Rich text formatting for solutions
 - **Responsive Layout**: Optimized for various screen sizes
 
-### ⚡ **Background Processing**
-- **Background Solving**: Continue processing when app is backgrounded
-- **Smart Notifications**: Get notified when solutions are ready
-- **Progress Tracking**: Real-time updates on solving progress
-- **Resource Management**: Efficient memory and battery usage
-
 ### 📚 **Problem Management**
 - **History Tracking**: Save and revisit solved problems
 - **Search Functionality**: Find problems by content or date
@@ -117,8 +111,7 @@ The app requires the Gemma 3n 4B model file to function. The model manager will:
 ### AI & ML
 - **Google Gemma 3n 4B**: On-device language model
 - **TensorFlow Lite**: Model inference engine
-- **flutter_gemma**: Flutter integration package
-- **Google ML Kit**: OCR and text recognition
+- **flutter_gemma**: Flutter integration package 
 
 ### UI & Rendering
 - **flutter_math_fork**: LaTeX mathematical notation
@@ -174,12 +167,6 @@ We welcome contributions to Gemmatry! Please:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-### Development Guidelines
-
-- Follow Flutter/Dart best practices
-- Maintain comprehensive error handling
-- Add documentation for new features
-- Test on multiple devices and screen sizes
+ 
 
 
